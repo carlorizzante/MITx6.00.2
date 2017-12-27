@@ -1,5 +1,5 @@
 # MITx 6.00.2
-Release 0.1.0
+Release 0.1.1
 
 Solutions to problems in the course MITx 6.00.2.
 
@@ -7,3 +7,4 @@ Solutions to problems in the course MITx 6.00.2.
 - UNIT 1./Lecture 1 - Optimization and the Knapsack Problem
 - UNIT 1./Lecture 2 - Decision Trees and Dynamic Programming
 - UNIT 1./Lecture 3 - Graph Problems
+- UNIT 1./Problem Set 1 - Part 1
