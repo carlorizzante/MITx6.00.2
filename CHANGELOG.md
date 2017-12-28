@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.2.0] - 2017-12-28
+### Added
+- UNIT 2./Lecture 4 - Plotting
+
 ## [0.1.3] - 2017-12-27
 ### Edited
 - UNIT 1./Problem Set 1 - Part 2
@@ -23,4 +27,4 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - UNIT 1./Lecture 3 - Graph Problems
 
 ## [0.0.0] - 2017-11-03
-- Initial commit.
+- Initial commit

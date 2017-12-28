@@ -1,5 +1,5 @@
 # MITx 6.00.2
-Release 0.1.3
+Release 0.2.0
 
 Solutions to problems in the course MITx 6.00.2.
 
@@ -8,3 +8,4 @@ Solutions to problems in the course MITx 6.00.2.
 - UNIT 1./Lecture 2 - Decision Trees and Dynamic Programming
 - UNIT 1./Lecture 3 - Graph Problems
 - UNIT 1./Problem Set 1
+- UNIT 2./Lecture 4 - Plotting
