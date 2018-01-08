@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.2.1] - 2018-01-08
+- UNIT 2./Lecture 5 - Stochastic Thinking
+- UNIT 2./Lecture 6 - Random Walk
+- UNIT 2./Problem Set 2
+
 ## [0.2.0] - 2017-12-28
 ### Added
 - UNIT 2./Lecture 4 - Plotting
