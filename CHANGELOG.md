@@ -4,7 +4,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.3.0] - 2018-01-15
+### Added
+- UNIT 3./Exercise 1
+- UNIT 3./Exercise 4
+- UNIT 3./Lecture 7 - Inferential Statistics
+- UNIT 3./Lecture 8 - Monte Carlo Simulations
+- UNIT 3./Lecture 9 - Sampling and Standard Error
+- UNIT 3./Problem Set 3
+
+
 ## [0.2.1] - 2018-01-08
+### Added
 - UNIT 2./Lecture 5 - Stochastic Thinking
 - UNIT 2./Lecture 6 - Random Walk
 - UNIT 2./Problem Set 2
