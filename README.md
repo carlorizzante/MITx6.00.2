@@ -1,5 +1,5 @@
 # MITx 6.00.2
-Release 0.3.0
+Release 0.4.0
 
 Solutions to problems in the course MITx 6.00.2.
 
@@ -21,3 +21,7 @@ Solutions to problems in the course MITx 6.00.2.
   - UNIT 3./Lecture 8 - Monte Carlo Simulations
   - UNIT 3./Lecture 9 - Sampling and Standard Error
   - UNIT 3./Problem Set 3
+- UNIT 4.
+  - UNIT 4./Lecture 10 - Experimental Data Part 1
+  - UNIT 4./Lecture 11 - Experimental Data Part 2
+  - UNIT 4./Problem Set 4

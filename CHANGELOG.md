@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.4.0] - 2018-12-16
+### Added
+- UNIT 4./Lecture 10 - Experimental Data Part 1
+- UNIT 4./Lecture 11 - Experimental Data Part 2
+- UNIT 4./Problem Set 4
+
 ## [0.3.0] - 2018-01-15
 ### Added
 - UNIT 3./Exercise 1
@@ -12,7 +18,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - UNIT 3./Lecture 8 - Monte Carlo Simulations
 - UNIT 3./Lecture 9 - Sampling and Standard Error
 - UNIT 3./Problem Set 3
-
 
 ## [0.2.1] - 2018-01-08
 ### Added
