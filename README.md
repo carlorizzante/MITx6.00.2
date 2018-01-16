@@ -1,5 +1,5 @@
 # MITx 6.00.2
-Release 0.4.0
+Release 0.5.0
 
 Solutions to problems in the course MITx 6.00.2.
 
@@ -25,3 +25,5 @@ Solutions to problems in the course MITx 6.00.2.
   - UNIT 4./Lecture 10 - Experimental Data Part 1
   - UNIT 4./Lecture 11 - Experimental Data Part 2
   - UNIT 4./Problem Set 4
+- UNIT 5.
+  - UNIT 5./Lecture 12 - Machine Learning

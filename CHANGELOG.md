@@ -4,7 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [0.4.0] - 2018-12-16
+## [0.5.0] - 2018-01-16
+### Added
+- UNIT 5./Lecture 12 - Machine Learning
+
+## [0.4.0] - 2018-01-16
 ### Added
 - UNIT 4./Lecture 10 - Experimental Data Part 1
 - UNIT 4./Lecture 11 - Experimental Data Part 2
